@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dataset (large, download separately)
+data/
+lol_dataset/
+*.zip
+
+# Model checkpoints and outputs
+checkpoints/
+outputs/
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
