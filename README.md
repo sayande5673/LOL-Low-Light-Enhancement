@@ -165,7 +165,7 @@ python src/infer.py \
 
 | Model | Dataset (eval15) | PSNR (dB) | SSIM |
 |-------|-------------------|-----------|------|
-| LAN (this repo) | LOL eval15 | TBD | TBD |
+| LAN (this repo) | LOL eval15 | 17.64 | 0.7068 |
 
 ## Future Work
 
